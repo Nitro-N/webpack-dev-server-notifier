@@ -1,5 +1,5 @@
 {
-  "name": "webpack-notifier",
+  "name": "webpack-dev-server-notifier",
   "version": "1.0.0",
   "description": "Display info about webpack building process in browser while webpack-dev-server is running",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "webpack"
   ],
   "author": "Nitro-N <nitron.ru@gmail.com>",
-  "repository": "https://github.com/Nitro-N/webpack-notifier.git",
+  "repository": "https://github.com/Nitro-N/webpack-dev-server-notifier.git",
   "license": "ISC",
   "dependencies": {
     "notie": "^4.3.0",
