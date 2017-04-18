@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-server-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display info about webpack building process in browser while webpack-dev-server is running",
   "main": "index.js",
   "scripts": {
